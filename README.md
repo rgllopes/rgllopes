@@ -1,7 +1,7 @@
 ### Olá! Sou Reginaldo Lopes
 
 
-- 🔭 Atualmente trabalho com desenvolvimento WEB fullStack e Automacao Industrial(PLCs)
+- 🔭 Desenvolvimento WEB fullStack e Automacao Industrial(PLCs)
 - 🤝 Sempre disposto a ajudar
 - 👨‍💻 Uma sede incansável de aprender e trocar experiencias de aprendizado
 
